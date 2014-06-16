@@ -1,6 +1,3 @@
-installscripts/config/custom_cfg.sh
-installscripts/config/local/*
-
 *.py[cod]
 
 # C extensions
